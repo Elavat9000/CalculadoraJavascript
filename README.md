@@ -1,0 +1,3 @@
+#Calculadora basica. 
+ESTE ES UN PROYECTO PARA SEGUIR PRACTICANDO EN MIS HABILIDADES DE PROGRAMADOR. 
+![CAPTURA DE PANTALLA](https://github.com/user-attachments/assets/12eab582-8981-470e-90c7-287c6a4bac9c)
